@@ -2,11 +2,11 @@ public class NumTester
 {
     public static void main(String[] args)
     {
-        Num num = new Num(1, 1);
-        System.out.println(num.toString());
-        System.out.println(num.isEqual());
-        num.setNum2(2);
-        System.out.println(num.toString());
-        System.out.println(num.isEqual());
+        Num n1 = new Num(1);
+        Num n2 = new Num(1);
+
+        System.out.println(n1.isEqual(n2));
+        n2.setNum(2);
+        System.out.println(n1.isEqual(n2));
     }
 }

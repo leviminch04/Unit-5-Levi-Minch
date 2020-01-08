@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="caedfafe-2137-47c2-b8c1-c162676af74a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParameterPassing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParameterTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Num.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Num.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Num.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NumTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumTester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,11 +42,18 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
   </component>
-  <component name="RunManager" selected="Application.NumTester">
+  <component name="RunManager" selected="Application.ParameterPassing">
     <configuration name="NumTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NumTester" />
+      <module name="Unit-5-Levi-Minch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParameterPassing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ParameterPassing" />
       <module name="Unit-5-Levi-Minch" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -60,6 +68,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ParameterPassing" />
         <item itemvalue="Application.NumTester" />
         <item itemvalue="Application.Test" />
       </list>
@@ -95,22 +104,30 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="254" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1578501387921" />
-    <state width="1557" height="202" key="GridCell.Tab.0.bottom" timestamp="1578502007178">
+    <state x="561" y="126" key="#com.intellij.ide.util.MemberChooser" timestamp="1578502574416">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="202" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1578502007178" />
-    <state width="1557" height="202" key="GridCell.Tab.0.center" timestamp="1578502007178">
+    <state x="561" y="126" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1578502574416" />
+    <state width="1557" height="202" key="GridCell.Tab.0.bottom" timestamp="1578505896949">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="202" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1578502007178" />
-    <state width="1557" height="202" key="GridCell.Tab.0.left" timestamp="1578502007178">
+    <state width="1557" height="202" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1578505896949" />
+    <state width="1557" height="202" key="GridCell.Tab.0.center" timestamp="1578505896949">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="202" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1578502007178" />
-    <state width="1557" height="202" key="GridCell.Tab.0.right" timestamp="1578502007178">
+    <state width="1557" height="202" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1578505896949" />
+    <state width="1557" height="202" key="GridCell.Tab.0.left" timestamp="1578505896949">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="202" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1578502007178" />
+    <state width="1557" height="202" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1578505896949" />
+    <state width="1557" height="202" key="GridCell.Tab.0.right" timestamp="1578505896949">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="202" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1578505896949" />
+    <state x="444" y="109" key="SettingsEditor" timestamp="1578505734680">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="444" y="109" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1578505734680" />
     <state x="456" y="195" key="run.anything.popup" timestamp="1578501519760">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
