@@ -8,4 +8,9 @@ public class Employee
         this.name = name;
         this.salary = salary;
     }
+
+    public void paycut(double percent)
+    {
+        salary -= salary * (percent / 100);
+    }
 }
